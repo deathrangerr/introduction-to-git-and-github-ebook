@@ -44,7 +44,7 @@ I would personally stick to Homebrew.
 choco install git
 ```
 
-If you have a Windows PC, you can follow the steps on how to install Git on Windows here:
+OR you can follow the steps on how to install Git on Windows here:
 
 [Install Git on Windows](https://git-scm.com/download/win)
 
