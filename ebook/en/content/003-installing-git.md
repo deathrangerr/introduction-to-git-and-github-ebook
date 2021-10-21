@@ -42,6 +42,7 @@ I would personally stick to Homebrew.
 
 ```powershell
 choco install git
+```
 
 If you have a Windows PC, you can follow the steps on how to install Git on Windows here:
 
