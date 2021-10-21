@@ -39,7 +39,7 @@ brew install git
 I would personally stick to Homebrew.
 
 ### Install Git on Windows
-
+* Using choco package manager
 ```powershell
 choco install git
 ```
